@@ -1,5 +1,5 @@
 # AI-Research-Archiver
-AI Research Archiver - Local AI Agent runs any user prompts and generates beautifully formated web page
+AI Research Archiver - Local AI Agent runs any user prompts and generates beautifully formated web page. Think of it as text-to-webpage or text-to-website or ai-agent-to-web.
 
 # AI Research Archiver
 
@@ -37,6 +37,10 @@ AI Research Archiver - Local AI Agent runs any user prompts and generates beauti
 
 - **Community‑driven evolution:**  
   Even before full implementation, a well‑structured repo (with examples, stubs, and docs) can attract contributors who add new scripts, templates, and agent integrations.
+
+  **AI Research Arciver could take this more steps further by optionally building .json file from the research!**
+  **Could also create CSS themes the user could pick to style their output webpage or instant CSS Style Generator like JQuery web sites have.**
+  **This agent could be used to publish web pages to a web site. Call it ai-agent-to-web-site.**
 
 ---
 
