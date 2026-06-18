@@ -225,7 +225,7 @@ This is the dream workflow for content creators.
 
 **🧩 Allows AI to anaylyze user's MS Word Document and make changes saving them in the web page instead.**
 
-** 🧩 AI‑Mediated Word Editing (Word → HTML → Word)**
+**🧩 AI‑Mediated Word Editing (Word → HTML → Word)**
 Beyond simple “Word‑to‑Web” conversion, this concept enables an AI‑mediated editing loop where an HTML page acts as a proxy for a Word document.
 
 **Instead of directly modifying the .docx file, the AI:**
@@ -236,7 +236,8 @@ interprets those changes and produces an updated, Word‑compatible structure
 optionally publishes the same content to the web with themes and metadata
 
 **In other words:**
-Word → AI → HTML (editable proxy) → AI → Word / Web / Other outputs
+Word → AI → HTML (editable proxy) → AI → Word / Web / Other outputs.
+
 **This turns HTML into a universal editing surface for Word documents, enabling:**
 structural edits (reordering sections, rewriting paragraphs, improving flow)
 stylistic changes (applying themes, layouts, and visual styles)
