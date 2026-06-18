@@ -150,7 +150,6 @@ This mirrors how real automation frameworks scale:
 one core pipeline → many specialized agents → infinite extensibility.
 
 ### 🌐 Why Multiple Agents?
-Each item begins with a Guided Link.
 
 Different markup rules — Every platform (WordPress, Ghost, Blogger, static sites) expects different HTML or Markdown
 Different CSS themes — Each destination benefits from its own styling rules
