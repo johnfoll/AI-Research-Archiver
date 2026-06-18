@@ -1,5 +1,5 @@
 # AI-Research-Archiver
-AI Research Archiver - Local AI Agent runs any user prompts and generates beautifully formated web page. Think of it as text-to-webpage or text-to-website or ai-agent-to-webpage.
+AI Research Archiver - Local AI Agent runs any user prompts and generates beautifully formated web page. Think of it as text-to-webpage or text-to-website or ai-agent-to-webpage pipeline.
 
 # AI Research Archiver
 
