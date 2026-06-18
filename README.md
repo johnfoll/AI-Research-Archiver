@@ -221,9 +221,9 @@ a Static Site Agent
 Each one produces a different flavor of the same content — styled, structured, and ready to publish.
 This is the dream workflow for content creators.
 
-🧩** Allows AI to anaylyze user's MS Word Document and make changes saving them in the web page instead.**
+**🧩 Allows AI to anaylyze user's MS Word Document and make changes saving them in the web page instead.**
 
-🧩** AI‑Mediated Word Editing (Word → HTML → Word)**
+** 🧩 AI‑Mediated Word Editing (Word → HTML → Word)**
 Beyond simple “Word‑to‑Web” conversion, this concept enables an AI‑mediated editing loop where an HTML page acts as a proxy for a Word document.
 
 **Instead of directly modifying the .docx file, the AI:**
