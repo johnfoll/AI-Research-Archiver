@@ -89,58 +89,53 @@ AI Research Archiver - Local AI Agent runs any user prompts and generates beauti
       - Improve scripts.
       - Share agent configuration examples.
 
-Development roadmap (high level)
+**Development roadmap (high level):**
 MVP scripts
 
 Parser: Convert AI output to normalized Markdown/HTML.
-
 Exporter: Save to archives/ with basic metadata.
-
 Template: Simple, clean HTML layout with CSS.
 
-Agent examples
 
+**Agent examples:**
 Cline Agent configuration snippet.
-
 LM Studio Agent configuration snippet.
-
 Example prompts and resulting pages.
-
 GitHub “technical blog” pattern
-
 Document how to use the repo as a personal AI research blog.
-
 Show how to organize archives by topic, date, or project.
 
-Optional enhancements
 
+**Optional enhancements:**
 Tagging and search over archives.
-
 Automatic index page generation.
-
 Pandoc integration for Word/PDF export.
 
-How others can contribute
+**How others can contribute:**
 Add new templates:  
 More HTML/CSS themes for different types of content (research notes, tutorials, code walkthroughs).
 
-Extend Python scripts:
-
+**Extend Python scripts:**
 Better metadata extraction.
 
 More export formats.
 
 Simple static site generation (index pages, tag pages).
 
-Share agent configs:  
+**Share agent configs:**
 Ready‑to‑use configurations for different local AI setups, making it trivial for others to plug this into their own workflows.
 
 
-This AI Reserch Archive idea allow people to get their locally installed LLM AI using such systems as LM Studio and others generate beautifully rendered html. This is saved on their computer. This can then be copy and pasted into MS Word or other word processor to save their research. Later on a standalone web to doc file exported could be developed. 
+**This AI Reserch Archive idea allow people to get their locally installed LLM AI using such systems as LM Studio and others generate beautifully rendered html. **
+This is saved on their computer. This can then be copy and pasted into MS Word or other word processor to save their research. Later on a standalone web to doc file exported could be developed. 
 
 You can already do some this now without this system, but AI's such as MS CoPilot running on a web page are sandboxed and the user cannot just copy the whole page and paste into word without losing the pictures that the AI put in there. This system allows for the entire generated web page to be captured and saved to word or pdf, with nothing missing. There are other issues with a huge amount of researched pulled by MS CoPilot, possibly others... the lazy loading scroll bar on the web page, the user must select at the top and keep dragging the mouse over a very long window.
 
+This system is much simpler than trying to get the AI Agent to generate a Word Docx file from the AI Research, and is compatible with any browsers or any operating system or device that can display html.
+
 Because the AI's user is using will be sandboxed, setting up this agent to generate web pages gets around this issue. And file watcher service on the users client side could be developed to automatically convert the web pages to doc or pdf files when they are completed.
 
-#Even though this idea is not completed yet, it can still function as an idea to other, this is why we created this repo.
+**With the proper CSS the user can get their output set to their own liking and style!**
+
+**Even though this idea is not completed yet, it can still function as an idea to other, this is why we created this repo.**
 We hope to be able to get this setup and running on our system. We believe that locally run LLMs are superior in many respects to Cloud AI's because we have more control.
