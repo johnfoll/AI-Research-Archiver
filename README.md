@@ -130,7 +130,7 @@ Simple static site generation (index pages, tag pages).
 Ready‑to‑use configurations for different local AI setups, making it trivial for others to plug this into their own workflows.
 
 
-**This AI Reserch Archive idea allow people to get their locally installed LLM AI using such systems as LM Studio and others generate beautifully rendered html.**
+**This AI Reserch Archive idea allows people to get their locally installed LLM AI using such systems as LM Studio and others generate beautifully rendered html.**
 This is saved on their computer. This can then be copy and pasted into MS Word or other word processor to save their research. Later on a standalone web to doc file exported could be developed. 
 
 You can already do some this now without this system, but AI's such as MS CoPilot running on a web page are sandboxed and the user cannot just copy the whole page and paste into word without losing the pictures that the AI put in there. This system allows for the entire generated web page to be captured and saved to word or pdf, with nothing missing. There are other issues with a huge amount of researched pulled by MS CoPilot, possibly others... the lazy loading scroll bar on the web page, the user must select at the top and keep dragging the mouse over a very long window.
