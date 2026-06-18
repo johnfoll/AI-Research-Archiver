@@ -220,10 +220,7 @@ a Notebook‑Style Agent
 a Static Site Agent
 
 Each one produces a different flavor of the same content — styled, structured, and ready to publish.
-
 This is the dream workflow for content creators.
-
-If you want, I can now regenerate your entire README with this section integrated seamlessly into the architecture so the whole document reads like a polished, compelling concept paper.
 
 **Even though this idea is not completed yet, it can still function as an idea to others, this is why we created this repo.**
 We hope to be able to get this setup and running on our system. We believe that locally run LLMs are superior in many respects to Cloud AI's because we have more control.
