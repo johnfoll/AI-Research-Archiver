@@ -141,3 +141,6 @@ This AI Reserch Archive idea allow people to get their locally installed LLM AI 
 You can already do some this now without this system, but AI's such as MS CoPilot running on a web page are sandboxed and the user cannot just copy the whole page and paste into word without losing the pictures that the AI put in there. This system allows for the entire generated web page to be captured and saved to word or pdf, with nothing missing. There are other issues with a huge amount of researched pulled by MS CoPilot, possibly others... the lazy loading scroll bar on the web page, the user must select at the top and keep dragging the mouse over a very long window.
 
 Because the AI's user is using will be sandboxed, setting up this agent to generate web pages gets around this issue. And file watcher service on the users client side could be developed to automatically convert the web pages to doc or pdf files when they are completed.
+
+#Even though this idea is not completed yet, it can still function as an idea to other, this is why we created this repo.
+We hope to be able to get this setup and running on our system. We believe that locally run LLMs are superior in many respects to Cloud AI's because we have more control.
